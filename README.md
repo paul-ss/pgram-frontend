@@ -1,4 +1,5 @@
-# pgram-frontend
+
+# pgram-front
 
 
 ## Project setup
@@ -15,6 +16,13 @@ npm run serve
 ```
 npm run build
 ```
+
+
+### Run your unit tests
+```
+npm run test:unit
+```
+
 
 ### Lints and fixes files
 ```
